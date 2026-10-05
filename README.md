@@ -11,7 +11,8 @@ Lenguaje: C#, SQL.
 Herramientas: Visual Studio, GitHub, Virtual UTP, MySQL.  
 
 ## Problemas:  
-
+Creacion de la Base de datos(Script):  
+<img width="1432" height="450" alt="image" src="https://github.com/user-attachments/assets/3300af2d-7a72-402c-853d-992451be4ba8" />
 Forms con datos:  
 <img width="592" height="424" alt="image" src="https://github.com/user-attachments/assets/f46d3a6e-b779-45e4-809e-7111a3ccde2f" />  
 Form antes de modificar:  
@@ -23,6 +24,9 @@ Form antes de Borrar:
 <img width="590" height="421" alt="image" src="https://github.com/user-attachments/assets/1611ac60-6db1-4aa7-afc3-2499e6b073e4" />
 Form despues de Borrar:  
 <img width="588" height="422" alt="image" src="https://github.com/user-attachments/assets/85e72276-d090-4546-8dc3-bd0fcf6622d4" />  
+Contenido de la base de datos(Final):  
+<img width="896" height="585" alt="image" src="https://github.com/user-attachments/assets/ec53ba62-b6b6-47ab-8045-5ed1c104166d" />
+
 
 ## Autor y Contexto  
 
